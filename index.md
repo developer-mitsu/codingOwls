@@ -2,4 +2,4 @@
 
 - [hubotを使用したBot開発](./handson.html)
 
-- [正規表現ことはじめ](./regexp/html)
+- [正規表現ことはじめ](./regexp.html)
